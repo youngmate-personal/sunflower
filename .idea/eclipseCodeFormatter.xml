@@ -4,8 +4,8 @@
     <option name="projectSpecificProfile">
       <ProjectSpecificProfile>
         <option name="formatter" value="ECLIPSE" />
-        <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/plugins/eclipse/p3c-formatter/eclipse-codestyle.xml" />
-        <option name="selectedJavaProfile" value="P3C-CodeStyle" />
+        <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/code-formart.xml" />
+        <option name="selectedJavaProfile" value="Eclipse [artfoxlive]" />
       </ProjectSpecificProfile>
     </option>
   </component>
