@@ -34,4 +34,5 @@ public class LeetCodeDemo {
         int[] res = getSum(nums, 17);
         System.out.println(Arrays.toString(res));
     }
+
 }
