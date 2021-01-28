@@ -1,5 +1,6 @@
 package com.youngmate.leetcode;
 
+import javax.swing.*;
 import java.util.Arrays;
 import java.util.HashMap;
 
@@ -10,18 +11,16 @@ import java.util.HashMap;
 public class LeetCodeDemo {
     /**
      * 求两个数之和,每次输入只对应一个答案，数组中的元素只能使用一次
-     * 
-     * @param nums
-     *            给定的数组
-     * @param target
-     *            目标值
+     *
+     * @param nums   给定的数组
+     * @param target 目标值
      * @return 数组中两个相加为target的元素位置
      */
     public static int[] getSum(int[] nums, int target) {
-        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>();
+        HashMap<Integer, Integer> map = new HashMap<Integer, Integer>(nums.length - 1);
         for (int i = 0; i < nums.length; i++) {
             if (map.containsKey(nums[i])) {
-                return new int[] { map.get(nums[i]), i };
+                return new int[]{map.get(nums[i]), i};
             } else {
                 map.put(target - nums[i], i);
             }
@@ -30,9 +29,15 @@ public class LeetCodeDemo {
     }
 
     public static void main(String[] args) {
-        int[] nums = { 7, 11, 2, 15 };
+        int[] nums = {7, 11, 2, 15};
         int[] res = getSum(nums, 17);
         System.out.println(Arrays.toString(res));
     }
 
+    /**
+     * 两数之相加
+     */
+    public static ListNode addTowNum(ListNode l1, ListNode l2) {
+        return null;
+    }
 }
