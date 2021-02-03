@@ -1,4 +1,4 @@
-package com.youngmate.sort;
+package com.youngmate.sort.util;
 
 import java.util.Arrays;
 
