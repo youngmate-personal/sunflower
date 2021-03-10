@@ -10,7 +10,7 @@ import java.util.LinkedList;
  * @author ZhaoYanqi
  * @date 2021/3/10 0010
  */
-public class MyContainerSynchronized<T> {
+public class MyContainer1<T> {
     final private LinkedList<T> list = new LinkedList<T>();
     final private int MAX = 10;
     private int count = 0;
