@@ -7,7 +7,7 @@ import java.util.Map;
  * @author ZhaoYanqi
  * @date 2021/3/9 0009
  */
-public class DemoTwoSum {
+public class Demo1TwoSum {
 
     /**
      * 求两个数之和,每次输入只对应一个答案，数组中的元素只能使用一次
