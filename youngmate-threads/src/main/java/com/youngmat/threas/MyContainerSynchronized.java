@@ -16,6 +16,7 @@ public class MyContainerSynchronized<T> {
     private int count = 0;
 
     public synchronized void put(T t) {
+        // 思考，while可以被if取代吗？
         while (list.size() == MAX) {
             try {
                 // 当容器满了就等待
