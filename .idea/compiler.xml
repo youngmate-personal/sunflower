@@ -6,17 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="youngmate-LeetCode" />
-        <module name="parent" />
         <module name="youngmate-leetCode" />
+        <module name="parent" />
+        <module name="youngmate-LeetCode" />
         <module name="youngmate-designPattern" />
+        <module name="youngmate-threads" />
+        <module name="youngmate-algorithm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="parent" target="1.8" />
+      <module name="youngmate-algorithm" target="1.5" />
       <module name="youngmate-designPattern" target="1.5" />
       <module name="youngmate-leetCode" target="6" />
       <module name="youngmate-LeetCode" target="1.5" />
+      <module name="youngmate-threads" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

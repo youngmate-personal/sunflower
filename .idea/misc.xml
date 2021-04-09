@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/leetcode/pom.xml" />
         <option value="$PROJECT_DIR$/youngmate-leetCode/pom.xml" />
         <option value="$PROJECT_DIR$/youngmate-designPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/youngmate-algorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/youngmate-threads/pom.xml" />
       </list>
     </option>
   </component>

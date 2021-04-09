@@ -4,7 +4,7 @@
     <option name="projectSpecificProfile">
       <ProjectSpecificProfile>
         <option name="formatter" value="ECLIPSE" />
-        <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/code-formart.xml" />
+        <option name="pathToConfigFileJava" value="D:/java_tools/IntelliJ_IDEA_2019.3.3/code-formart.xml" />
         <option name="selectedJavaProfile" value="Eclipse [artfoxlive]" />
       </ProjectSpecificProfile>
     </option>

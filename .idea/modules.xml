@@ -5,9 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/youngmate-parent/parent.iml" filepath="$PROJECT_DIR$/youngmate-parent/parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sunflower.iml" filepath="$PROJECT_DIR$/.idea/sunflower.iml" />
       <module fileurl="file://$PROJECT_DIR$/youngmate-parents/youngmate-LeetCode.iml" filepath="$PROJECT_DIR$/youngmate-parents/youngmate-LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youngmate-algorithm/youngmate-algorithm.iml" filepath="$PROJECT_DIR$/youngmate-algorithm/youngmate-algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/youngmate-designPattern/youngmate-designPattern.iml" filepath="$PROJECT_DIR$/youngmate-designPattern/youngmate-designPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/youngmate-leetCode/youngmate-leetCode.iml" filepath="$PROJECT_DIR$/youngmate-leetCode/youngmate-leetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/youngmate-parents/youngmate-leetcode/youngmate-leetcode.iml" filepath="$PROJECT_DIR$/youngmate-parents/youngmate-leetcode/youngmate-leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youngmate-threads/youngmate-threads.iml" filepath="$PROJECT_DIR$/youngmate-threads/youngmate-threads.iml" />
     </modules>
   </component>
 </project>
