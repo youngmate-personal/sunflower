@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="423674a0-2236-4740-a86f-22440adcfe80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-framework" afterDir="false" />
-    </list>
+    <list default="true" id="423674a0-2236-4740-a86f-22440adcfe80" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,17 +137,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AlternateBlockingQueue" />
@@ -194,6 +181,8 @@
       <workItem from="1615537983915" duration="1198000" />
       <workItem from="1616132673597" duration="652000" />
       <workItem from="1616376820867" duration="168000" />
+      <workItem from="1617933432355" duration="1202000" />
+      <workItem from="1618190503446" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1580968489761</created>
